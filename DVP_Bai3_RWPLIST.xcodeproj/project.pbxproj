@@ -14,6 +14,7 @@
 		05BD33991EC4BD81004C6F89 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05BD33971EC4BD81004C6F89 /* LaunchScreen.storyboard */; };
 		05BD33A41EC4BD81004C6F89 /* DVP_Bai3_RWPLISTTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05BD33A31EC4BD81004C6F89 /* DVP_Bai3_RWPLISTTests.swift */; };
 		05BD33AF1EC4BD81004C6F89 /* DVP_Bai3_RWPLISTUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05BD33AE1EC4BD81004C6F89 /* DVP_Bai3_RWPLISTUITests.swift */; };
+		05BD33BD1EC4BE78004C6F89 /* myData.plist in Resources */ = {isa = PBXBuildFile; fileRef = 05BD33BC1EC4BE78004C6F89 /* myData.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		05BD33AA1EC4BD81004C6F89 /* DVP_Bai3_RWPLISTUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DVP_Bai3_RWPLISTUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		05BD33AE1EC4BD81004C6F89 /* DVP_Bai3_RWPLISTUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DVP_Bai3_RWPLISTUITests.swift; sourceTree = "<group>"; };
 		05BD33B01EC4BD81004C6F89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		05BD33BC1EC4BE78004C6F89 /* myData.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = myData.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				05BD338E1EC4BD81004C6F89 /* AppDelegate.swift */,
 				05BD33901EC4BD81004C6F89 /* ViewController.swift */,
 				05BD33921EC4BD81004C6F89 /* Main.storyboard */,
+				05BD33BC1EC4BE78004C6F89 /* myData.plist */,
 				05BD33951EC4BD81004C6F89 /* Assets.xcassets */,
 				05BD33971EC4BD81004C6F89 /* LaunchScreen.storyboard */,
 				05BD339A1EC4BD81004C6F89 /* Info.plist */,
@@ -234,6 +237,7 @@
 			files = (
 				05BD33991EC4BD81004C6F89 /* LaunchScreen.storyboard in Resources */,
 				05BD33961EC4BD81004C6F89 /* Assets.xcassets in Resources */,
+				05BD33BD1EC4BE78004C6F89 /* myData.plist in Resources */,
 				05BD33941EC4BD81004C6F89 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
